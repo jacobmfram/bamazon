@@ -1,7 +1,7 @@
 # bamazon
 A database interface for a coffee shop
 
-##__User must input port, username, and password information manually__
+##__*User must input port, username, and password information manually*__
 
 ###*Guide
   *bamazonCustomer: User may order a product in a specified amount.
